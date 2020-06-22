@@ -91,6 +91,9 @@ section#corpo{
     border-right: 1px #606060 solid;
     padding-right: 15px;
 }
+section#corpo article#noticiaprincipal div#casa video#filme1{
+    width: 500px;
+}
 article#noticiaprincipal h2{
     font-size: 13pt;
     color: #606060;
@@ -173,6 +176,9 @@ aside#lateral h2{
     color: #ffffff;
     background-color: #606060;
     padding: 5px;
+}
+aside#lateral div#pulo video#filme2{
+    width: 350px;
 }
 footer#rodape{
     clear: both;
